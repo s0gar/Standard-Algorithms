@@ -1,2 +1,2 @@
 # Standard-Algorithms
-Implementation of several standard algorithms.
+Start the implementation of several standard algorithms to learn C++
