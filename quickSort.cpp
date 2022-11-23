@@ -17,7 +17,7 @@ void swap(int *i, int *j){
     int *i = *j; 
     *j = tmp; 
 
-};
+}
 
 int main(){
     int testArray[5] = { 1, 2, 4, 6, 1};
