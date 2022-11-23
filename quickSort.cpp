@@ -12,6 +12,13 @@ int getPivotElement(int arr[]){
     }
 }
 
+void swap(int *i, int *j){
+    int tmp = *i;
+    int *i = *j; 
+    *j = tmp; 
+
+};
+
 int main(){
     int testArray[5] = { 1, 2, 4, 6, 1};
     int test = getPivotElement(testArray);
